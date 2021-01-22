@@ -52,6 +52,7 @@ canonifyURLs = true
 
 [outputs]
     section = ["JSON", "HTML"]
+    home = ["JSON", "HTML"]
 
 [menu]
   [[menu.main]]
