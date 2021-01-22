@@ -14,8 +14,8 @@ script:
   - hugo version # prints the Hugo version, just in case.
   - git submodule update --init --recursive
   - git submodule update --recursive --remote 
-  - git submodule foreach git checkout master 
-  - git submodule foreach git pull origin master 
+  - git submodule foreach git checkout tags/v1.0
+  - git submodule foreach git pull origin tags/v1.0 
   - make build_prod
 deploy:
         provider: pages
