@@ -92,19 +92,6 @@ Documentation for adopters is available through [GitHub Pages](https://ga4gh-dis
 
 
 ## Use cases
-
-Sample use cases include:
-
-- Find subjects with HP:0001519 and candidate gene FBN1 (use case of [Matchmaker Exchange](https://www.matchmakerexchange.org/))
-- Find male subjects with HP:0009726 consented for General Research Use (use case of [European Genome-phenome Archive](https://www.ebi.ac.uk/ega/home))
-- Find adult males diagnosed with autism having a harmful mutation in SHANK1 (use case of [Autism Sharing Initiative](http://autismsharinginitiative.org))
-- Find dataset from subject on European data center hosted on Amazon (use case of [Cloud Work Stream](https://github.com/ga4gh/wiki/wiki))
-
-Full summary of use cases can be found in [USECASES.md](USECASES.md).
-
-
-## Applications
-
 Various applications can be built on top of GA4GH Search, such as
 
 - Data and metadata indexers
@@ -115,6 +102,15 @@ Various applications can be built on top of GA4GH Search, such as
 - Workflow result summaries
 - Patient matchmaking
 - (Most importantly) Things we haven’t yet imagined!
+
+Some real-world examples include:
+
+- Find subjects with HP:0001519 and candidate gene FBN1 (use case of [Matchmaker Exchange](https://www.matchmakerexchange.org/))
+- Find male subjects with HP:0009726 consented for General Research Use (use case of [European Genome-phenome Archive](https://www.ebi.ac.uk/ega/home))
+- Find adult males diagnosed with autism having a harmful mutation in SHANK1 (use case of [Autism Sharing Initiative](http://autismsharinginitiative.org))
+- Find dataset from subject on European data center hosted on Amazon (use case of [Cloud Work Stream](https://github.com/ga4gh/wiki/wiki))
+
+Full summary of use cases can be found in [USECASES.md](USECASES.md).
 
 
 ## Out of scope

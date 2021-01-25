@@ -23,7 +23,7 @@ Checkout the following examples for some inspiration.
 {{%content-textbox%}}
 ##### Quick Links
 ---
-[Full API Specifications](/api)
+[Full API Specifications](/api/)
 
 [Example Usecases](/docs/use-exisitng-data/)
 {{%/content-textbox%}}
